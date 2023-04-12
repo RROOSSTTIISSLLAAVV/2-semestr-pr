@@ -1,0 +1,3 @@
+﻿  pr5.cpp
+D:\c++\2-sem\pr5\pr5\pr5.cpp(12,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  pr5.vcxproj -> D:\c++\2-sem\pr5\x64\Debug\pr5.exe
